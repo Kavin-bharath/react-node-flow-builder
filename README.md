@@ -1,3 +1,52 @@
+# 🧠 React Node Flow Builder
+- A dynamic and interactive React Flow-based Node Editor for building conditional logic flows visually. Built using @xyflow/react (React Flow), this tool allows users to drag and drop various node types (Widget, Conditional, and Output) and configure connections and conditions through a user-friendly UI.
+
+# ✨ Features
+
+- 🎨 Drag & drop interface for node creation
+- 🔌 Custom input, conditional, and output nodes
+- 🔗 Dynamic edge generation and condition-based connections
+- 🖱️ Node click to open contextual settings panel
+- 🧩 Fully customizable node labels and conditions
+- 🌈 Styled using styled-components
+
+
+# 📦 Tech Stack
+
+- React
+- React Flow (@xyflow/react)
+- TypeScript
+- Styled-Components
+- React Icons
+
+
+# 🧑‍💻 How to Use
+
+- Drag a node type (Widget, Conditional, Output) from the left sidebar into the canvas.
+- Click a node to edit its properties in the right sidebar.
+- For input nodes, you can assign a label and connect to a conditional node.
+- For conditional nodes, add multiple conditions and define which output node they point to.
+- For output nodes, just define the label.
+
+# 📸 Screenshots
+
+Add screenshots of your app UI here to help showcase the features visually.
+![Example Screenshot](public/screenshots/react-flow-example.png)
+
+# 🔧 Future Enhancements
+
+- Save/load flow from localStorage or backend
+- Export/import flow data as JSON
+- Validation and node completeness checks
+- Better UX for connections and condition mapping
+
+
+# 🙌 Acknowledgements
+
+- React Flow by XYFlow
+- Styled Components
+- React Icons
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
