@@ -29,8 +29,6 @@
 - For output nodes, just define the label.
 
 # 📸 Screenshots
-
-Add screenshots of your app UI here to help showcase the features visually.
 ![Example Screenshot](public/screenshots/react-flow-example.png)
 
 # 🔧 Future Enhancements
